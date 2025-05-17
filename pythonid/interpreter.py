@@ -68,6 +68,7 @@ ______________________________________________________
 """
 
 import sys
+
 import io
 
 class PythonID:
@@ -199,6 +200,10 @@ ______________________________________________________
     def __str__(self) -> str:
         return self.output
 
+    @property
+    def code(self) -> str:
+        return self.kode
+
     def translate_keywords(self, code: str) -> str:
         for indo, eng in self.KEYWORDS.items():
             code = code.replace(indo, eng)
@@ -228,3 +233,12 @@ ______________________________________________________
         sys.stdout = old_stdout
         
         return buffer.getvalue()
+
+def main():
+    import sys
+    
+    kode = sys.stdin.read()
+    
+    interp = PythonID(kode)
+    
+    print(interp)
