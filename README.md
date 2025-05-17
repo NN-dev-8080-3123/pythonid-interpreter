@@ -15,7 +15,7 @@ Interpreter kecil yang menerjemahkan kata kunci Bahasa Indonesia ke Python.
 ## Instalasi
 
 ```bash
-git clone https://github.com/username/pythonid-interpreter.git
+git clone https://github.com/NN-dev-8080-3123/pythonid-interpreter.git
 cd pythonid-interpreter
 pip install -e .
 ```
