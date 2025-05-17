@@ -46,22 +46,8 @@ pytest
 ## Lisensi
 ```text
 MIT © 2025
-```
 
-### 2. LICENSE
-
-```text
-MIT License
-
-Copyright (c) 2025 NN-dev-8080-3123
-
----------------------------------------------
-
-### 2. LICENSE
-
-MIT License
-
-Copyright (c) 2025 NN (Nadi Nataprawira).
+Copyright (c) 2025 NN-dev-8080-3123 / NN (Nadi Nataprawira).
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
