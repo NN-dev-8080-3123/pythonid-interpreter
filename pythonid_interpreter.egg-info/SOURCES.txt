@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+pythonid/__init__.py
+pythonid/interpreter.py
+pythonid_interpreter.egg-info/PKG-INFO
+pythonid_interpreter.egg-info/SOURCES.txt
+pythonid_interpreter.egg-info/dependency_links.txt
+pythonid_interpreter.egg-info/entry_points.txt
+pythonid_interpreter.egg-info/top_level.txt
+tests/test_interpreter.py
