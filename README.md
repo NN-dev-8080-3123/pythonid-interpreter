@@ -53,7 +53,7 @@ MIT © 2025
 ```text
 MIT License
 
-Copyright (c) 2025 Your Name
+Copyright (c) 2025 NN (Nadi Nataprawira) / @NN-dev-8080-3123.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 [standard MIT text]
