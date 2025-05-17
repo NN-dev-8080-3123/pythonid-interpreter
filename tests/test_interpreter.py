@@ -19,6 +19,6 @@ cetak(a)
     assert interp.output.strip() == "Bot"
 
 def test_syntax_error():
-    interp = PythonID('cetak("hello"')  # missing parenthesis.
+    interp = PythonID('cetak("hello"')  # missing parenthesis
     
     assert "[ERROR]" in interp.output
